@@ -1,0 +1,4 @@
+# Netlify redirects - https://docs.netlify.com/routing/redirects/
+
+# Permanent redirect from root to /en for SEO consolidation
+/  /en  301
